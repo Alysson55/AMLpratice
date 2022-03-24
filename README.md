@@ -1,0 +1,2 @@
+# AMLpratice
+treinando postgresql 
